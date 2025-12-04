@@ -2,7 +2,7 @@
 
 This repository contains the source code for an Online Voting System developed using the MERN stack (MongoDB, Express.js, React.js, Node.js). The system allows users to participate in various types of online voting, such as elections, polls, surveys, and more.
 
-# [Click here to check out the live demo](https://online-voting.vercel.app/)
+## [Click here to check out the live demo](https://online-voting.vercel.app/)
 
 ## Features
 - **User Authentication:** Secure user authentication and authorization system.
