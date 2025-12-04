@@ -18,7 +18,6 @@ This repository contains the source code for an Online Voting System developed u
 - **Database:** MongoDB for storing user data, voting events, and results.
 - **Authentication:** JSON Web Tokens (JWT) for user authentication.
 - **Real-time Updates:** WebSocket for real-time communication between clients and the server.
-- **UI Framework:** Material-UI for designing responsive and modern UI components.
 
 
 
